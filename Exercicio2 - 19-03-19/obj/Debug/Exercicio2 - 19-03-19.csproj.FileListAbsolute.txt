@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2 - 19-03-19.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2___19_03_19.frmCliente.resources
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2___19_03_19.frmFuncionario.resources
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2___19_03_19.frmLogin.resources
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2___19_03_19.frmMenu.resources
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2___19_03_19.Properties.Resources.resources
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2 - 19-03-19.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Visual Studio\Sistema2\Exercicio2 - 19-03-19\obj\Debug\Exercicio2 - 19-03-19.csproj.CoreCompileInputs.cache
